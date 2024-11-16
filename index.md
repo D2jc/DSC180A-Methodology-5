@@ -1,6 +1,6 @@
 ### About Me
 Name: David Moon\
-Email: damoon\@ucsd.edu
+Email: damoon@ucsd.edu
 
 ### Section
 Section: B12 \
